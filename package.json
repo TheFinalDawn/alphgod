@@ -1,0 +1,9 @@
+{
+  "name": "alph",
+  "version": "0.0.0",
+  "description": "A bot coded specifically for the subreddit r/alph. Will automatically reply to top level comments on a given post, and output a random unique sequence of letters, assign OP said letters as a flair, and inform them of such.",
+  "main": "app.js",
+  "author": {
+    "name": "Resetium"
+  }
+}
