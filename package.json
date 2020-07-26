@@ -5,5 +5,9 @@
   "main": "app.js",
   "author": {
     "name": "Resetium"
+  },
+  "dependencies": {
+    "snoostorm": "^1.5.0",
+    "snoowrap": "^1.21.0"
   }
 }
