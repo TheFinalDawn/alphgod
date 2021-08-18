@@ -112,12 +112,12 @@
 		"27": {
 			"sequence": "ALPH",
 			"username": "alphgod",
-			"comment":  "This is where the real sequences start. Starting with this bot, and the author."
+			"comment": "This is where the real sequences start. Starting with this bot, and the author."
 		},
 		"28": {
 			"sequence": "REST",
 			"username": "TheFinalDawnYT",
-			"comment":  "of course the dev inserts his own sequence."
+			"comment": "of course the dev inserts his own sequence."
 		},
 		"29": {
 			"sequence": "EZQB",
@@ -154,6 +154,10 @@
 		"37": {
 			"sequence": "FFTB",
 			"username": "virtsuop"
+		},
+		"38": {
+			"sequence": "KQQP",
+			"username": "123456789-1234567890"
 		}
 	}
 }

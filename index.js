@@ -22,7 +22,9 @@ comments.on('item', (item) => {
         item.report({ reason: "Attempted to acquire multiple sequences." });
         item.remove(); // :angry:
     } else {
-        let theirSequence, egg = sequencer.generate(item.author.username);
+        let Sequence = sequencer.generate(item.author.name);
+        let theirSequence = Sequence[0];
+        let egg = Sequence[1];
         if (egg == "same") {
             item.reply(`Most unusual. You have been assigned the sequence ${theirSequence}. You're clearly destined to be a leader, should you choose to accept this role or not.`); // :scream:
         } else if (egg == "symm") {

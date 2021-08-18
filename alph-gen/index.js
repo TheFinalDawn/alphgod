@@ -35,5 +35,5 @@ exports.generate = function(user = "test") {
 	console.log(used);
 	used = JSON.stringify(used);
 	fs.writeFileSync("./used.json", used);
-	return confirm, egg;
+	return [confirm, egg];
 }
