@@ -1,8 +1,8 @@
 {
   "name": "alph",
-  "version": "0.0.0",
-  "description": "A bot coded specifically for the subreddit r/alph. Will automatically reply to top level comments on a given post, and output a random unique sequence of letters, assign OP said letters as a flair, and inform them of such.",
-  "main": "app.js",
+  "version": "0.8.0",
+  "description": "A bot coded specifically for the subreddit r/alph. Will automatically reply to top level comments on a given reply to a designated masterpost, and output a random unique sequence of letters, assign OP said letters as a flair, and inform them of such. Also warn idiots who make a top-level message twice.",
+  "main": "index.js",
   "author": {
     "name": "Resetium"
   },

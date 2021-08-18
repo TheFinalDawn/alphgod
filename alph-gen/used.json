@@ -1,0 +1,159 @@
+{
+	"used": {
+		"0": {
+			"sequence": "DICK",
+			"username": "",
+			"comment": "Objects with no username field are banned words. Just delete the objects to unban the words."
+		},
+		"1": {
+			"sequence": "FUCK",
+			"username": ""
+		},
+		"2": {
+			"sequence": "SHIT",
+			"username": ""
+		},
+		"3": {
+			"sequence": "PISS",
+			"username": ""
+		},
+		"4": {
+			"sequence": "FART",
+			"username": ""
+		},
+		"5": {
+			"sequence": "TWAT",
+			"username": ""
+		},
+		"6": {
+			"sequence": "CUNT",
+			"username": ""
+		},
+		"7": {
+			"sequence": "COOM",
+			"username": ""
+		},
+		"8": {
+			"sequence": "NIGR",
+			"username": ""
+		},
+		"9": {
+			"sequence": "PEDO",
+			"username": ""
+		},
+		"10": {
+			"sequence": "HOES",
+			"username": ""
+		},
+		"11": {
+			"sequence": "TITS",
+			"username": ""
+		},
+		"12": {
+			"sequence": "FAGS",
+			"username": ""
+		},
+		"13": {
+			"sequence": "ARSE",
+			"username": ""
+		},
+		"14": {
+			"sequence": "FAGT",
+			"username": ""
+		},
+		"15": {
+			"sequence": "PEEN",
+			"username": ""
+		},
+		"16": {
+			"sequence": "HELL",
+			"username": ""
+		},
+		"17": {
+			"sequence": "DAMN",
+			"username": ""
+		},
+		"18": {
+			"sequence": "CUCK",
+			"username": ""
+		},
+		"19": {
+			"sequence": "JEWS",
+			"username": ""
+		},
+		"20": {
+			"sequence": "COON",
+			"username": ""
+		},
+		"21": {
+			"sequence": "METH",
+			"username": ""
+		},
+		"22": {
+			"sequence": "WEED",
+			"username": ""
+		},
+		"23": {
+			"sequence": "CUMS",
+			"username": ""
+		},
+		"24": {
+			"sequence": "SLUT",
+			"username": ""
+		},
+		"25": {
+			"sequence": "POOP",
+			"username": ""
+		},
+		"26": {
+			"sequence": "PUBE",
+			"username": ""
+		},
+		"27": {
+			"sequence": "ALPH",
+			"username": "alphgod",
+			"comment":  "This is where the real sequences start. Starting with this bot, and the author."
+		},
+		"28": {
+			"sequence": "REST",
+			"username": "TheFinalDawnYT",
+			"comment":  "of course the dev inserts his own sequence."
+		},
+		"29": {
+			"sequence": "EZQB",
+			"username": "Roboaaron1"
+		},
+		"30": {
+			"sequence": "VYHY",
+			"username": "Nerdaxe"
+		},
+		"31": {
+			"sequence": "YKYV",
+			"username": "Zecho_K"
+		},
+		"32": {
+			"sequence": "OPVM",
+			"username": "Azteranzo"
+		},
+		"33": {
+			"sequence": "BZVT",
+			"username": "SPECTRE_722"
+		},
+		"34": {
+			"sequence": "MUPA",
+			"username": "andrewtheredditor"
+		},
+		"35": {
+			"sequence": "NJUM",
+			"username": "us3rnam3_ch3cks_0ut-"
+		},
+		"36": {
+			"sequence": "THZP",
+			"username": "nandanspyro"
+		},
+		"37": {
+			"sequence": "FFTB",
+			"username": "virtsuop"
+		}
+	}
+}
