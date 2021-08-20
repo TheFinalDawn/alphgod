@@ -1,0 +1,9 @@
+{
+	"name": "alph-discord",
+	"version": "0.1.0",
+	"description": "Prototype module for discord integration.",
+	"main": "check.js",
+	"author": {
+		"name": "Resetium"
+	}
+}

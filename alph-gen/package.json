@@ -1,5 +1,9 @@
 {
-    "name": "alph-gen",
-    "version": "1.1.2",
-    "description": "Generates a unique sequence of letters. Do alph-gen.generate(), returns unique 4 letter string in all caps"
+  "name": "alph-gen",
+  "version": "1.1.2",
+  "description": "Generates a unique sequence of letters. Do alph-gen.generate(), returns unique 4 letter string in all caps",
+  "main": "index.js",
+  "author": {
+    "name": "Resetium"
+  }
 }
