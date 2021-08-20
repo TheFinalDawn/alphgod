@@ -341,4 +341,5 @@ healthchecksdb
 
 # Don't change this ya fucks
 config.json
+used.json
 configexplanation.txt
